@@ -4,11 +4,11 @@ The autonomous software execution platform for building, deploying, and scaling 
 
 ---
 
-> 🚀 Seedlay is currently onboarding early users in limited batches.
+> 🚀 SeedLay is currently onboarding early users in limited batches.
 
 ## Rethinking software execution
 
-Seedlay is designed to help software projects execute, evolve, and improve over time.
+SeedLay is designed to help software projects execute, evolve, and improve over time.
 
 It combines a central product experience with a connected local runtime, giving teams a way to manage work, run missions, monitor activity, and extend execution into real project environments.
 
@@ -16,7 +16,7 @@ SeedLay is not just automation. It is software execution designed to adapt, impr
 
 ---
 
-## What SeedlLy is
+## What SeedLay is
 
 SeedLay is an autonomous software execution platform built for modern project workflows.
 
